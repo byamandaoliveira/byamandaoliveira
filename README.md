@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/DXQHj0G/GitHub.png" />
 &nbsp;&nbsp;&nbsp;
-<p align="center">EU ❤️ TECNOLOGIA <br><br> Após passar pela carreira administrativa e desempenhar atividades de Bussiness Analictis, desenvolvi amor pela programação e inteligências artificiais. Atualmente, minha meta é se tornar Desenvolvedora Full Stack e utilizar das aplicações de AI para promover as melhores soluções. </strong> Outra paixão é compartilhar do meu conhecimento e ensinar as pessoas que então iniciando na área as melhores práticas, ferramentas e códigos.</p>&nbsp;
+<p align="center">EU ❤️ TECNOLOGIA <br><br> Após passar pela carreira administrativa e desempenhar atividades de Business Intelligence, desenvolvi amor pela programação e inteligências artificiais. Atualmente, minha meta é me tornar Desenvolvedora Full Stack e utilizar das aplicações de AI para promover as melhores soluções. </strong> Outra paixão é compartilhar do meu conhecimento e ensinar as pessoas que então iniciando na área as melhores práticas, ferramentas e códigos.</p>&nbsp;
 
 ## ◎ HARD SKILLS
 #### ◉ Estudando Atualmente:
@@ -13,6 +13,7 @@
 
 #### ◉ Banco de Dados:
 ![Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### ◉ Sistemas Operacionais:
 ![Microsoft](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -52,20 +53,19 @@
 
 ## ◎ SOFT SKILLS
 #### ◉ Sobre Mim:
-∘ Idade: 24 anos🌻.<br>
+∘ Idade: 25 anos🌻.<br>
 ∘ Resido: Marília - SP 🏠.<br>
 ∘ Formação: Análise e Desenvolvimento de Sistemas🎓.<br>
-∘ Inglês: A1 🗣️.<br>
-∘ Comida: Doces, salgados, frutas, sorvetes, pizza, japonês, chá (no coffee) etc 🍽️.<br>
+∘ Pós Graduação: Back-end e Inteligencia Artifical🎓.<br>
+∘ Inglês: Intermediário 🗣️.<br>
+∘ Comida: Gosto de Doces, salgados, frutas, sorvetes, pizza, japonês, chá (no coffee) etc 🍽️.<br>
 ∘ Pratico: Academia e meditação🏋️‍♀️🏃‍♀️🧘‍♀.<br>
 
 #### ◉ Curiosidades sobre Mim:
 ∘ Tenho costume de ser: ![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)<br>
 ∘ Amo Ouvir Música: ![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![YTmusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)<br>
-∘ Gosto de Jogar: ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) 
+
 
 
 
