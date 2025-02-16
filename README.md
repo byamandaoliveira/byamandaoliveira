@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/8T1L9qt.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/8T1L9qt.png](https://i.ibb.co/DXQHj0G/GitHub.png" />
 &nbsp;&nbsp;&nbsp;
 <p align="center">EU ❤️ TECNOLOGIA <br><br> Após passar pela carreira administrativa e desempenhar atividades de Bussiness Analictis, desenvolvi amor pela programação e inteligências artificiais. Atualmente, minha meta é se tornar Desenvolvedora Full Stack e utilizar das aplicações de AI para promover as melhores soluções. </strong> Outra paixão é compartilhar do meu conhecimento e ensinar as pessoas que então iniciando na área as melhores práticas, ferramentas e códigos.</p>&nbsp;
 
