@@ -28,6 +28,8 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)&nbsp;
 
 
+
+
 #### ◉ GitHub:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=byamandaoliveira&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Oliveira GitHub Stats" /> 
@@ -37,6 +39,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byamandaoliveira&bg_color=0d1117&color=ffffff&line=800080&point=7a23d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## ◎ SOFT SKILLS
 #### ◉ Sobre Mim:
@@ -47,8 +50,6 @@
 ∘ Inglês: Intermediário 🗣️.<br>
 ∘ Comida: Gosto de Doces, salgados, frutas, sorvetes, pizza, japonês, chá (no coffee) etc 🍽️.<br>
 ∘ Pratico: Academia e meditação🏋️‍♀️🏃‍♀️🧘‍♀.<br>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### ◉ Curiosidades sobre Mim:
 ∘ Tenho costume de ser: Sponsor <br>
