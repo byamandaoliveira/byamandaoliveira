@@ -48,6 +48,8 @@
 ∘ Comida: Gosto de Doces, salgados, frutas, sorvetes, pizza, japonês, chá (no coffee) etc 🍽️.<br>
 ∘ Pratico: Academia e meditação🏋️‍♀️🏃‍♀️🧘‍♀.<br>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 #### ◉ Curiosidades sobre Mim:
 ∘ Tenho costume de ser: Sponsor <br>
 ∘ Amo Trabalhar Ouvindo Música: Spotify e Youtube <br>
