@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/DXQHj0G/GitHub.png" />
 &nbsp;&nbsp;&nbsp;
-<p align="center">EU ❤️ TECNOLOGIA <br><br> Após passar pela carreira administrativa e desempenhar atividades de Business Intelligence (Tecnologia da Informação), desenvolvi amor pela programação e inteligência artificial. Atualmente, minha meta é tornar-me Desenvolvedora Full Stack e utilizar das aplicações de AI para promover as melhores soluções. </strong> Porém, atualmente, estou estruturando meus conhecimentos em BACK-END para, posteriormente, adentrar em FRONT-END. </strong> Outra paixão é compartilhar do meu conhecimento e ensinar as pessoas que então iniciando na área as melhores práticas, ferramentas e códigos.</p>&nbsp;
+<p align="center">EU ❤️ TECNOLOGIA <br><br> Após passar pela carreira administrativa e desempenhar atividades de Business Intelligence (Tecnologia da Informação), desenvolvi amor pela programação e inteligência artificial. Atualmente, minha meta é tornar-me Desenvolvedora Full Stack e utilizar das aplicações de AI para promover as melhores soluções. </strong> Porém, atualmente, estou estruturando meus conhecimentos em BACK-END para, posteriormente, adentrar em FRONT-END. </strong> Outra paixão é compartilhar do meu conhecimento e ensinar as pessoas que estão iniciando na área as melhores práticas, ferramentas e códigos.</p>&nbsp;
 
 ## ◎ HARD SKILLS
 #### ◉ Estudando Atualmente:
