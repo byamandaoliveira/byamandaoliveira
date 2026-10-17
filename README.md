@@ -1,8 +1,17 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/DXQHj0G/GitHub.png" />
 &nbsp;&nbsp;&nbsp;
-<p align="center">EU ❤️ TECNOLOGIA <br><br>Após passar pela carreira administrativa, hoje, minha especialidade é traduzir desafios de negócio em dashboards interativos com insights estratégicos e criar apresentações digitais/páginas on-lines oferecendo um diferencial estratégico para empresas. Com uma combinação de experiência em processos de negócio e forte conhecimento técnico em ferramentas de Business Inteligence, UX/CS e front-end, meu objetivo é proporcionar informação para tomarem decisões mais inteligentes e rápidas através do meu conhecimento em dados. Minha meta é especializar-me cada vez mais em Business Intelligence e Tecnologia da Informação, UX/CS e IA (graduanda em pós-graduação de Inteligência Artificial). Outra paixão é compartilhar do meu conhecimento e ensinar as pessoas que estão iniciando na área as melhores práticas, ferramentas e códigos.</p>&nbsp;
+<p align="center">💼 Administração, Processos & Business Intelligence (BI) | 🚀 Transformando Dados em Decisões<br><br>Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
+<br><br>
+Minha trajetória é construída em corporações líderes de mercado como **Nestlé, Grupo Jacto, Paschoalotto e Dori Alimentos**, onde atuei no mapeamento de processos (BPM), estruturação de indicadores (KPIs/OEE), dashboards gerenciais em Power BI, rotinas logísticas via SAP ERP e melhoria contínua (Lean Six Sigma Yellow Belt).
+<br><br>
+Acredito que a tecnologia e os dados devem servir à eficiência dos processos. Por isso, direciono minha atuação para simplificar rotinas, eliminar gargalos e transformar dados complexos em suporte real para a tomada de decisões corporativas.
+<br><br>
+🎯 **Áreas de Atuação:**
+• Administração, Planejamento e Informações Gerenciais;<br>
+• Operações, Logística e Melhoria Contínua;<br>
+• Business Intelligence (BI) Aplicado a Negócios.</p>&nbsp;
 
-## ◎ HARD SKILLS
+## ◎ 🛠️ HARD SKILLS & TECNOLOGIAS
 #### ◉ Business Intelligence:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
@@ -53,28 +62,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byamandaoliveira&bg_color=0d1117&color=ffffff&line=800080&point=7a23d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## ◎ SOFT SKILLS
-#### ◉ Sobre Mim:
-∘ Idade: 26 anos🌻.<br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-∘ Resido: Marília - SP 🏠.<br>
-∘ Formação: Análise e Desenvolvimento de Sistemas🎓.<br>
-∘ Pós Graduação: Full Stack e Inteligencia Artifical🎓.<br>
-∘ Inglês: Intermediário 🗣️.<br>
-∘ Comida: Gosto de Doces, salgados, frutas, sorvetes, pizza, japonês, chá (no coffee) etc 🍽️.<br>
-∘ Pratico: Academia e meditação🏋️‍♀️🏃‍♀️🧘‍♀.<br>
-
-#### ◉ Curiosidades sobre Mim:
-∘ Tenho costume de ser: Sponsor <br>
-∘ Amo Trabalhar Ouvindo Música: Spotify e Youtube <br>
-
-
-
-
-#### ◉ Meus Contatos:
+#### ◉ 🌐 Conecte-se Comigo!
 <div> 
 <a href="https://www.instagram.com/iam.amandaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:dev.amandaoliveira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
