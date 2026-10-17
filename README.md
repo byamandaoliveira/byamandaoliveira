@@ -37,6 +37,15 @@
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)&nbsp;
 
 
+#### ◉ UX / UI:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+
 #### ◉ Outras que eu uso:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)&nbsp;
@@ -49,13 +58,12 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 
-#### ◉ Code Front-End:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+#### ◉ Resumindo:
+&emsp;• Business Intelligence & Dados:** Microsoft Power BI (DAX, Modelagem), Microsoft Power Automate, Python (Automação e Tratamento de Dados).
+&emsp;• Sistemas & ERP:** SAP ERP (Módulos SD, Gestão de Materiais e Depósito).
+&emsp;• Processos & Qualidade:** Mapeamento BPMN, Ciclo PDCA, Lean Six Sigma (Yellow Belt), 5S, Matriz GUT, 5W2H, Scrum/Kanban.
+&emsp;• Ferramentas Corporativas:** Pacote Office Avançado (Excel com macros e dashboards), Trello, Miro, Notion.
+
 
 <br><br>
 ## ◎ 🐱 GITHUB
