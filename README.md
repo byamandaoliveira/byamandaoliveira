@@ -1,12 +1,12 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/DXQHj0G/GitHub.png" />
 &nbsp;&nbsp;&nbsp;
-<p align="center">💼 Administração, Processos & Business Intelligence (BI) | 🚀 Transformando Dados em Decisões<br><br>Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
+<p align="JUSTify">💼 Administração, Processos & Business Intelligence (BI) | 🚀 Transformando Dados em Decisões<br><br>Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
 <br><br>
 Minha trajetória é construída em corporações líderes de mercado como **Nestlé, Grupo Jacto, Paschoalotto e Dori Alimentos**, onde atuei no mapeamento de processos (BPM), estruturação de indicadores (KPIs/OEE), dashboards gerenciais em Power BI, rotinas logísticas via SAP ERP e melhoria contínua (Lean Six Sigma Yellow Belt).
 <br><br>
 Acredito que a tecnologia e os dados devem servir à eficiência dos processos. Por isso, direciono minha atuação para simplificar rotinas, eliminar gargalos e transformar dados complexos em suporte real para a tomada de decisões corporativas.
 <br><br>
-🎯 **Áreas de Atuação:**
+🎯 **Áreas de Atuação:**<br>
 • Administração, Planejamento e Informações Gerenciais;<br>
 • Operações, Logística e Melhoria Contínua;<br>
 • Business Intelligence (BI) Aplicado a Negócios.</p>&nbsp;
@@ -55,20 +55,20 @@ Acredito que a tecnologia e os dados devem servir à eficiência dos processos. 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-#### ◉ GitHub:
+## ◎ 🐱 GITHUB
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=byamandaoliveira&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Oliveira GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byamandaoliveira&layout=compact&hide_border=true&title_color=800080&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+<br><br>
 
-
-#### ◉ 🌐 Conecte-se Comigo!
+## ◎ 🌐 CONECTE-SE COMIGO!
 <div> 
 <a href="https://www.instagram.com/iam.amandaoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:dev.amandaoliveira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amandaoliveirasilva22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
- 
+
  
   
   
