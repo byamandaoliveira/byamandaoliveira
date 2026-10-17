@@ -1,6 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://i.ibb.co/DXQHj0G/GitHub.png" />
 &nbsp;&nbsp;&nbsp;
-<p align="JUSTify">💼 Administração, Processos & Business Intelligence (BI) | 🚀 Transformando Dados em Decisões<br><br>Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
+<p align="center">💼 Administração, Processos & Business Intelligence (BI) | 🚀 Transformando Dados em Decisões</p>
+<br><br>
+<p align="JUSTify">Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
 <br><br>
 Minha trajetória é construída em corporações líderes de mercado como **Nestlé, Grupo Jacto, Paschoalotto e Dori Alimentos**, onde atuei no mapeamento de processos (BPM), estruturação de indicadores (KPIs/OEE), dashboards gerenciais em Power BI, rotinas logísticas via SAP ERP e melhoria contínua (Lean Six Sigma Yellow Belt).
 <br><br>
@@ -55,6 +57,7 @@ Acredito que a tecnologia e os dados devem servir à eficiência dos processos. 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+<br><br>
 ## ◎ 🐱 GITHUB
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=byamandaoliveira&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Oliveira GitHub Stats" /> 
