@@ -2,13 +2,13 @@
 &nbsp;&nbsp;&nbsp;
 <p align="center">💼 Administração, Processos & Business Intelligence (BI) | 🚀 Transformando Dados em Decisões</p>
 <br><br>
-<p align="JUSTify">Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
+<p align="JUSTify">&emsp;Administradora com formação complementar em Análise e Desenvolvimento de Sistemas, unindo a visão estratégica de negócios ao domínio prático de ferramentas analíticas e operacionais.
 <br><br>
-Minha trajetória é construída em corporações líderes de mercado como **Nestlé, Grupo Jacto, Paschoalotto e Dori Alimentos**, onde atuei no mapeamento de processos (BPM), estruturação de indicadores (KPIs/OEE), dashboards gerenciais em Power BI, rotinas logísticas via SAP ERP e melhoria contínua (Lean Six Sigma Yellow Belt).
+&emsp;Minha trajetória é construída em corporações líderes de mercado como **Nestlé, Grupo Jacto, Paschoalotto e Dori Alimentos**, onde atuei no mapeamento de processos (BPM), estruturação de indicadores (KPIs/OEE), dashboards gerenciais em Power BI, rotinas logísticas via SAP ERP e melhoria contínua (Lean Six Sigma Yellow Belt).
 <br><br>
-Acredito que a tecnologia e os dados devem servir à eficiência dos processos. Por isso, direciono minha atuação para simplificar rotinas, eliminar gargalos e transformar dados complexos em suporte real para a tomada de decisões corporativas.
+&emsp;Acredito que a tecnologia e os dados devem servir à eficiência dos processos. Por isso, direciono minha atuação para simplificar rotinas, eliminar gargalos e transformar dados complexos em suporte real para a tomada de decisões corporativas.
 <br><br>
-🎯 **Áreas de Atuação:**<br>
+🎯Áreas de Atuação:<br>
 • Administração, Planejamento e Informações Gerenciais;<br>
 • Operações, Logística e Melhoria Contínua;<br>
 • Business Intelligence (BI) Aplicado a Negócios.</p>&nbsp;
