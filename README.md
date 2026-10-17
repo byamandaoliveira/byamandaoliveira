@@ -59,10 +59,10 @@
 
 
 #### ◉ Resumindo:
-&emsp;• Business Intelligence & Dados:** Microsoft Power BI (DAX, Modelagem), Microsoft Power Automate, Python (Automação e Tratamento de Dados).
-&emsp;• Sistemas & ERP:** SAP ERP (Módulos SD, Gestão de Materiais e Depósito).
-&emsp;• Processos & Qualidade:** Mapeamento BPMN, Ciclo PDCA, Lean Six Sigma (Yellow Belt), 5S, Matriz GUT, 5W2H, Scrum/Kanban.
-&emsp;• Ferramentas Corporativas:** Pacote Office Avançado (Excel com macros e dashboards), Trello, Miro, Notion.
+&emsp;• Business Intelligence & Dados:** Microsoft Power BI (DAX, Modelagem), Microsoft Power Automate, Python (Automação e Tratamento de Dados).<br>
+&emsp;• Sistemas & ERP:** SAP ERP (Módulos SD, Gestão de Materiais e Depósito).<br>
+&emsp;• Processos & Qualidade:** Mapeamento BPMN, Ciclo PDCA, Lean Six Sigma (Yellow Belt), 5S, Matriz GUT, 5W2H, Scrum/Kanban.<br>
+&emsp;• Ferramentas Corporativas:** Pacote Office Avançado (Excel com macros e dashboards), Trello, Miro, Notion.<br>
 
 
 <br><br>
